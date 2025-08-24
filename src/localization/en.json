@@ -1,0 +1,35 @@
+{
+    "msg":{
+        "basic_kit_desc":"Basic Kit",
+        "cable_desc":"USB-C cable",
+        "rumble_desc":"HD Rumble",
+        "motion_desc":"Motion Control",
+        "js_rgb_desc":"Joystick RGB",
+        "top_rgb_desc":"Key RGB",
+        "wireless_desc":"Wireless",
+        "ext_shell_desc":"Extramerate Shell(labor cost only)",
+        "clicky_abxy_desc":"Clicky ABXY",
+        "clicky_shouders_desc":"Clicky Shouders",
+        "clicky_crosses_desc":"Clicky Cross Keys(wobbly for now,contact if u need)",
+        "floating_price":"Floating price",
+        "product_typ":"Product type",
+        "gen":"Generate Order",
+        "copy_success":"Copied to clipboard.",
+        "copy_fail":"Copy fail.Pls screen shot",
+        "typ":"Type:",
+        "total_cost":"Total Cost"
+    },
+    "label":{
+        "alps":"Alps",
+        "ginfull":"Ginfull TMR",
+        "ginfull_low_resistent":"Ginfull TMR low resistent",
+        "k-silver-js13p":"K-Silver JS13Pro",
+        "favor_union_tmr":"Favor Union TMR",
+        "guliKit/hallPi":"GuliKit/HallPi TMR",
+        "others":"Others",
+        "mod_kit":"DIY Mod Kit",
+        "oem":"Finished Product",
+        "mod_for_me":"Mod for me"
+    },
+    "lang":"语言"
+}

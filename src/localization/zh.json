@@ -1,0 +1,35 @@
+{
+    "msg":{
+        "basic_kit_desc":"基础套件",
+        "cable_desc":"USB-C 数据线",
+        "rumble_desc":"HD震动",
+        "motion_desc":"体感",
+        "js_rgb_desc":"摇杆RGB",
+        "top_rgb_desc":"按键板 RGB",
+        "wireless_desc":"无线模块",
+        "ext_shell_desc":"Extramerate外壳(仅人工费)",
+        "clicky_abxy_desc":"ABXY微动",
+        "clicky_shouders_desc":"肩键+扳机键微动",
+        "clicky_crosses_desc":"十字键微动(目前有点松散，需要请联系)",
+        "floating_price":"浮动价，请详询",
+        "product_typ":"产品种类",
+        "gen":"生成配置单",
+        "copy_success":"已复制到剪切板",
+        "copy_fail":"复制失败，请截图订单内容.",
+        "typ":"种类:",
+        "total_cost":"总价格"
+    },
+    "label":{
+        "alps":"Alps(阿尔卑斯阿尔派)",
+        "ginfull":"锦富TMR",
+        "ginfull_low_resistent":"低阻力锦富TMR ",
+        "k-silver-js13p":"控银JS13Pro",
+        "favor_union_tmr":"普耀TMR",
+        "guliKit/hallPi":"谷粒/霍尔派 TMR",
+        "others":"其它",
+        "mod_kit":"DIY套件",
+        "oem":"成品",
+        "mod_for_me":"寄改"
+    },
+    "lang":"Language"
+}
