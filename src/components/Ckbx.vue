@@ -1,9 +1,14 @@
 <template>
     <n-grid x-gap="12" :cols="20" style="align-items: center">
     <n-gi span="14">
-        <n-flex justify="center">
-            <span>{{ $t(props.message_l) }}</span>
-        </n-flex>
+        <n-tooltip trigger="hover">
+            <template #trigger>
+                <n-flex justify="center">
+                    <span>{{ $t(props.message_l) }}</span>
+                </n-flex>
+            </template>
+            {{ $t(props.message_p) }}
+        </n-tooltip>
     </n-gi>
     <n-gi>
         <n-checkbox v-model:checked="comp_value" :disabled="props.disabled"></n-checkbox>
@@ -23,6 +28,7 @@ export default defineComponent({
         value: Boolean,
         message_l: String,
         message_r: String,
+        message_p: String,
         disabled: Boolean,
     },
     emits:['update:value'],
